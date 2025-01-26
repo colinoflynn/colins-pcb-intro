@@ -12,7 +12,9 @@ for giving the talk yourself and that was harder to find. Plus I wanted to cover
 
 ### Part 1
 
-`TODO`
+(YouTube Link)[https://youtu.be/N544CMR8I-M]
+
+`TODO: Image`
 
 ### Part 2
 
