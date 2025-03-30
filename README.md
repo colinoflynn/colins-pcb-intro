@@ -1,6 +1,6 @@
 # Colin's PCB Introduction
 
-This repo contains (Colin O'Flynn)[www.oflynn.com]'s presentation on PCB design. Despite the name this wasn't
+This repo contains [Colin O'Flynn](www.oflynn.com)'s presentation on PCB design. Despite the name this wasn't
 designed as a very in-depth presentation, instead it was a single class lecture given at Dalhousie University
 to the 2025 ECED3901 (Design II) students so they had some background in PCB design.
 
