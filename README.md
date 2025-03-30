@@ -12,25 +12,59 @@ for giving the talk yourself and that was harder to find. Plus I wanted to cover
 
 ### Part 1
 
-(YouTube Link)[https://youtu.be/N544CMR8I-M]
+Part 1 Topics:
+* PCB Construction background
+* PCB Finishes
+* Trace & Space, General Design
+* Vias
+* EMC Notes
+* Footprints & Component Sizes
 
-`TODO: Image`
+(YouTube Link for Part 1)[https://youtu.be/N544CMR8I-M]
 
 ### Part 2
 
-`TODO`
+Part 2 Topics:
+* DRC
+* Gerber & NC-Drill File Formats
+* PCB Ordering Example
+* PCB Assembly Ordering
+* Pin 1 and orientation marking
+
+(YouTube Link for Part 2)[https://youtu.be/7oKRGeSaMlQ]
 
 ### Part 3
 
-`TODO`
+Part 3 Topics:
+* KiCad introduction
+* Schematic entry
+* Finding parts on Digikey
+* Schematic to PCB
+* Track widths, routing
+* Exporting
+
+(YouTube Link for Part 3)[https://youtu.be/EYBp76mGBfE]
 
 ### Part 4
 
-`TODO`
+Part 4 Topics:
+* Proto assembly options
+* Solder types
+* SMD soldering with paste
+* Techniques from the web
+
+(YouTube Link for Part 4)[https://youtu.be/Wu17Rq_Cn4I]
 
 ### Bonus: Project Details including MOSFET Footprint Matching
 
-`TODO`
+Part 5 Topics:
+* TODO
+
+Part 6 Topics:
+* 3-Pin MOSFETs and Transistors
+* Reusing "compatible" footprints if you are lazy
+
+(YouTube Link for Part 6)[https://youtu.be/Xs0kOXRdku8]
 
 ## Project
 
