@@ -58,7 +58,9 @@ Part 4 Topics:
 ### Bonus: Project Details including MOSFET Footprint Matching
 
 Part 5 Topics:
-* TODO
+* Selecting a MOSFET
+
+[YouTube Link for Part 5](https://youtu.be/0gXKySvtgQA)
 
 Part 6 Topics:
 * 3-Pin MOSFETs and Transistors
