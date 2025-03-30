@@ -20,7 +20,7 @@ Part 1 Topics:
 * EMC Notes
 * Footprints & Component Sizes
 
-(YouTube Link for Part 1)[https://youtu.be/N544CMR8I-M]
+[YouTube Link for Part 1](https://youtu.be/N544CMR8I-M)
 
 ### Part 2
 
@@ -31,7 +31,7 @@ Part 2 Topics:
 * PCB Assembly Ordering
 * Pin 1 and orientation marking
 
-(YouTube Link for Part 2)[https://youtu.be/7oKRGeSaMlQ]
+[YouTube Link for Part 2][https://youtu.be/7oKRGeSaMlQ)
 
 ### Part 3
 
@@ -43,7 +43,7 @@ Part 3 Topics:
 * Track widths, routing
 * Exporting
 
-(YouTube Link for Part 3)[https://youtu.be/EYBp76mGBfE]
+[YouTube Link for Part 3](https://youtu.be/EYBp76mGBfE)
 
 ### Part 4
 
@@ -53,7 +53,7 @@ Part 4 Topics:
 * SMD soldering with paste
 * Techniques from the web
 
-(YouTube Link for Part 4)[https://youtu.be/Wu17Rq_Cn4I]
+[YouTube Link for Part 4](https://youtu.be/Wu17Rq_Cn4I)
 
 ### Bonus: Project Details including MOSFET Footprint Matching
 
@@ -64,7 +64,7 @@ Part 6 Topics:
 * 3-Pin MOSFETs and Transistors
 * Reusing "compatible" footprints if you are lazy
 
-(YouTube Link for Part 6)[https://youtu.be/Xs0kOXRdku8]
+[YouTube Link for Part 6](https://youtu.be/Xs0kOXRdku8)
 
 ## Project
 
