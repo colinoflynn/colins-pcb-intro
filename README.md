@@ -31,7 +31,7 @@ Part 2 Topics:
 * PCB Assembly Ordering
 * Pin 1 and orientation marking
 
-[YouTube Link for Part 2][https://youtu.be/7oKRGeSaMlQ)
+[YouTube Link for Part 2](https://youtu.be/7oKRGeSaMlQ)
 
 ### Part 3
 
